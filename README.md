@@ -4,12 +4,12 @@
 ## Installation
 
 1. Install requirementx.txt file
-    # pip install requirementx.txt 
+    ### pip install requirementx.txt 
 2. "https://127.0.0.1:8000" localhost
-   # python manage.py makemigrations
-   # python manage.py migrate
-   # python manage.py createsuperuser
-   # python manage.py runserver  
+   ### python manage.py makemigrations
+   ### python manage.py migrate
+   ### python manage.py createsuperuser
+   ### python manage.py runserver  
 
 ## Usage
 
